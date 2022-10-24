@@ -1,0 +1,69 @@
+.services{
+    background: url("https://livedemo00.template-help.com/wt_55458/images/pattern-white.jpg");
+    
+    height: 700px;
+}
+
+.services_head{
+    text-transform: uppercase;
+    font-size: 34px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.cap_head{
+    font-size: 30px;
+    text-align: center;
+    /* font-weight: 600; */
+    color:#dc6226;
+    font-weight: bold;
+}
+
+.cap_para{
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+    margin-top: 5px;
+}
+
+.para_head{
+    font-size: 21px;
+    padding: 20px;
+    text-align: center;
+    /* font-weight: 600; */
+    color: grey;
+    /* font-family: fantasy; */
+    margin-bottom: 40px;
+    font-family: sans-serif;
+}
+
+.para{
+    font-size: 13px;
+    line-height: 1.7;
+    text-align: center;
+    color: rgb(84, 79, 79);
+    margin-bottom: 30px;
+}
+
+.card{
+    width: 365px;
+    height: 440px;
+}
+
+.card img:hover{
+    transform: scale(0.98);
+}
+
+.icon{
+    color: black;
+    text-decoration: none;
+}
+
+.caption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    flex-direction: column;
+}
